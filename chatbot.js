@@ -1,6 +1,6 @@
 ;(function LLMChatBot() {
-  const ScriptURL = 'https://cdn.jsdelivr.net/gh/nhalq/release-ui@0.1/static/js/main.95a3cf17.js'
-  const StyleSheetURL = 'https://cdn.jsdelivr.net/gh/nhalq/release-ui@0.1/static/css/main.86047e45.css'
+  const ScriptURL = 'https://cdn.jsdelivr.net/gh/nhalq/release-ui@0.1-vnexpress/static/js/main.95ba6918.js'
+  const StyleSheetURL = 'https://cdn.jsdelivr.net/gh/nhalq/release-ui@0.1-vnexpress/static/css/main.86047e45.css'
 
   function injectReactScript(parent) {
     const script = document.createElement('script')
